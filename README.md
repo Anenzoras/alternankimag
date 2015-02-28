@@ -21,7 +21,7 @@ TODO faire un tuto sur anki
 TODO faire des decks, mais ça c'est tout le temps
 TODO nettoyer les TODOs
 
-Completer la partie "Détail de l'arborescence" quand vous rajoutez des matières.
+Compléter la partie "Détail de l'arborescence" quand vous rajoutez des matières.
 
 Vous êtes libre de fork le repo si vous voulez. Par contre n'ajoutez pas des branche au repo. Sinon casser ta gueule.
 
@@ -38,9 +38,12 @@ Par exemple, pour la matière Probabilité et Méthodes Statistiques, on va fair
 # Detail de l'arborescence
 
 - [alternankimag/pms] Decks Anki des Probabilités et Méthodes Statistiques.
+- [alternankimag/reseaux] Decks Anki liés aux cours de réseaux.
 
 # Recommandations
 
+- Evitez de modifier les decks existants ! Remplacer un deck par un autre ferait perdre tout le bénéfice de la répétition espacée en oubliant toutes vos statistiques (quelles cartes dues quand) et en retournant à zéro. Il vaut mieux créer un nouveau deck. Evidemment, si un deck contient des erreurs, ça vaut le coup de les corriger et de le signaler.
+- Si un deck a été modifié et que vous voulez récupérer la version modifiée sans perdre vos statistiques, suivre les instructions ici : http://anton.nordenfur.se/updating-shared-deck-in-anki-the-complicated-but-as-far-as-i-know-only-way/
 - Faites pas les sacs (:D)
 - *Essayez* de bien écrire dans les cartes anki
 - Foutez pas le dawa dans l'arborescence
