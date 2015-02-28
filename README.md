@@ -8,9 +8,9 @@ Les titres de premier niveau commencent par #, ceux de second niveau commencent 
 L'emphase d'un truc passe par soit par "truc" soit *truc* soit **truc**, par ordre d'importance.
 
 Une liste-dictionnaire (je sais plus comment ça s'appelle) se fait en faisant :
-[item1] Définition/explication de l'item1
-[item2] Définition/explication de l'item2
-[...] ...
+- [item1] Définition/explication de l'item1
+- [item2] Définition/explication de l'item2
+- [...] ...
 
 # Instruction
 
@@ -37,7 +37,7 @@ Par exemple, pour la matière Probabilité et Méthodes Statistiques, on va fair
 
 # Detail de l'arborescence
 
-[alternankimag/pms] Decks Anki des Probabilités et Méthodes Statistiques.
+- [alternankimag/pms] Decks Anki des Probabilités et Méthodes Statistiques.
 
 # Recommandations
 
